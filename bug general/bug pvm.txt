@@ -1,4 +1,4 @@
-- pere fwetat posséde des sorts distance mais ne les utiles que rarement, quand il est taclé il passe son tour
+- pere fwetar posséde des sorts distance mais ne les utiles que rarement, quand il est taclé il passe son tour
 
 - segmantide du donjon fraktal applique l'état insoignable sur lui même et non pas l'adversaire
 
