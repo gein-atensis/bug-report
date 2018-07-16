@@ -3,3 +3,5 @@
 - Le sort thérapie est sensé ne pas faire de dégat au allié et de les attirer, et faire des dommages au ennemis et les attirer. Sur atensis, ça tape les alliés et ça ne les attires pas, mais ça fonctionne bien sur les adversaires)
 
 - Prévu de TOUT les sorts de dégats à travers les portails bugs (ne correspond pas).
+
+- Virus heal tout les alliés sur la map alors que ça devrait heal que les alliés dans la zone et en plus ça heal pas 50% des dommages infligé.

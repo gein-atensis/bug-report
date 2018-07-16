@@ -1,0 +1,12 @@
+- les maps suivantes sont bugs quand on descend : 144969990 / 144707846 / 144445702 (map Xelorium)
+
+- la map 152307202 (incarnam) est bug (ça se voit direct)
+
+- certaine transition de map ne se font pas, j'ignore d'où vient le problème mais je penses que tu peux essayer de voir des points commun dans le codage , exemple : check mapid 24904704 cellid 9 et monte à l'endroit pile pour changer de map : https://gfycat.com/FarawayInfantileCornsnake
+
+
+- map 99090957 à revoir les poutchs
+
+- pareille que le premier bug : map 108926976 quand on descend ça crash, en fait toute la zone est completement bug. (zone bastion des froides legions)
+
+- zapp  108789760  n'est pas utilisable
