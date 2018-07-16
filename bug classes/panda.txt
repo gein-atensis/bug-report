@@ -1,1 +1,3 @@
-- bien le bonjour 
+- porter quelque chose pour le relancer plus loin deriere lui fait bug si on recule d'une case avant de le lancer, l'entitée est considéré sur la case où le lanceur l'a porté donc si le lanceur recule avec la cible sur lui, l'entité sera compté sur la case de là où il a prit la cible, exemple : https://gfycat.com/FearlessPleasingLeonberger , on peut voir que si le panda revient sur la cellule où il a porté la cible alors il poura le relancer. (ce bug éxiste depuis longtemps mais n'avais aucun impacte en pvp, en revanche j'ai perdu mon donjon une fois à cause de ça parce que je ne pouvais pas le relancer à l'endroit souhaité, priorité basse pour le pvp mais très important pour le pvm)
+
+-porter un double et passer son tour, quand il explosera il sera toujours considéré sur le panda alors qu'il est sensé être mort, on ne peut donc pas le coop (bug aillant peu d'impacte en pvm mais pas mal en koli 3v3)

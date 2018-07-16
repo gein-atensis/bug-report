@@ -1,0 +1,15 @@
+
+
+- [Bouclier de Guilde] , les conditions sont : avoir un level de guilde superieur à 29, sauf qu'on ne peut pas up le lvl de la guilde. (j'ai pas acheté l'item pour vérifier mais on sait jamais)
+
+- les sorts aillant du vol de vie ne sont pas sensé fonctionner sur les personnes aillant des bouclier, le problème ici c'est que ça regen pas par rapport au dégat dirrectement subit mais au point de vie érodée. si tu comprends pas go me mp. pour réaliser le bug il suffit de mettre un shield sur la cible du sort de vol de vie, tu lances ensuite le sort et ça te regen les points de vie que tu as érodé à la cible.
+
+- on ne peut pas voir depuis combien de temps des personnes sont en combat. (j'aime beaucoup regarder les combats déjà pour voir si il y a des bugs et aussi pour juger de l'éfficaciter d'une classe, le problème c'est qu'il m'est impossible de voir depuis combien de temps le combat dure) (quand on regarde dans l'onglet spectateur on voit durée 0:01 et ça se réinitialise toute les 3 seconde environs et en combat on voit depuis 48 ans et 6 minutes)
+
+- quand tu parles en /r ou /b il y a une restriction de 1.30 min environ, sauf que quand tu envoies un message et qu'il reste 1 sec, tu dois attendre une minutes de plus.
+
+- Certaine invocations ne sont pas soumise au tacle : Lapino, chafer, arakne (plus globalement tout les invocs non contrôlable)
+
+- on peut pas refresh les boosts en les relançant (exemple : furia / épée divine ... ) si il reste que 1 tour pour épée divinne si on relance le sort pour avoir encore 2 tour de plus ça ne fonctionnera pas. Ce bug fonctionne aussi pour les poisons ou toute sorte de choses qui dure plusieurs tours, boost comme effets nefaste.
+
+- Aucune invocation de heal ne fonctionne.
