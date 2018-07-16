@@ -1,26 +1,26 @@
-Sadida : 
-- les d�gats de mal�diction vaudou prennent 4 lignes au lieu de 2 (l'ancien bug o� �a tapait pas les autres dans l'�tat infect� est corrig�)
-(le probl�me c'est que t'as mis un truc du style : si le sadi lance vaudou sur un cible infect�, alors les cibles infect� prennent 2 lignes de d�gats, sauf que ducoup le premier il prend 4 ligne de d�gats (le sort d�gats de base + sur les cibles infect�) faudrait mettre un exception pour la cible du sort.
+Sadida :
+- les dégats de malédiction vaudou prennent 4 lignes au lieu de 2 (l'ancien bug oé éa tapait pas les autres dans l'état infecté est corrigé)
+(le probléme c'est que t'as mis un truc du style : si le sadi lance vaudou sur un cible infecté, alors les cibles infecté prennent 2 lignes de dégats, sauf que ducoup le premier il prend 4 ligne de dégats (le sort dégats de base + sur les cibles infecté) faudrait mettre un exception pour la cible du sort.
 
-- Innoculation ne fonctionne toujours pas correctement, sens� faire comme avec les arbres, infecte les entit�es autour de la cible infect� ou de l'arbre cibl�.
-Ce que �a fait : https://i.imgur.com/XeMOudU.gif sur les cibles infect�
-Ce que �a devrait faire (avec les cibles infect�) : https://i.imgur.com/lH8GYvD.gif
+- Innoculation ne fonctionne toujours pas correctement, sensé faire comme avec les arbres, infecte les entitées autour de la cible infecté ou de l'arbre ciblé.
+Ce que éa fait : https://i.imgur.com/XeMOudU.gif sur les cibles infecté
+Ce que éa devrait faire (avec les cibles infecté) : https://i.imgur.com/lH8GYvD.gif
 
 
 Iop :
-- Bug z�nith : http://prntscr.com/k1ddvy sur ce screen on peut voir que le iop a perdu 1 pm ce qui est sens� r�duire les d�gats de z�nith, et si il en gagne c'est sens� augmenter ses d�gats sauf que sur arena c'est en fonction des pm UTILIS� au lieu des pm DISPONNIBLE �a signifie que m�me si le iop tombe � 1 pm (marche pas pour 0 pm) comme il en aura utilis� 0 il tapera quand m�me du 500 (par exemple).
+- Bug zénith : http://prntscr.com/k1ddvy sur ce screen on peut voir que le iop a perdu 1 pm ce qui est sensé réduire les dégats de zénith, et si il en gagne c'est sensé augmenter ses dégats sauf que sur arena c'est en fonction des pm UTILISé au lieu des pm DISPONNIBLE éa signifie que méme si le iop tombe é 1 pm (marche pas pour 0 pm) comme il en aura utilisé 0 il tapera quand méme du 500 (par exemple).
 
 
 
-F�ca : Bug glyphe que je t'ai expliqu� qui ne donne pas l'�tat pesenteur
+Féca : Bug glyphe que je t'ai expliqué qui ne donne pas l'état pesenteur
 
 
 
 Sacrieur :
-- �p�e volante qui heal tout le monde quand il frappe (m�me les �nnemis) http://prntscr.com/k1dmu5   (est sens� heal que le sacrieur)
-- pacte de sang ne fixe pas l'�tat insoignable sur le serveur.
-- les d�gats des sorts Douleur motivante / Nervosit� / D�cha�nement / D�cimation / Entaille ne s'augmentent pas en fonction de la douleur du sacrieur.
-- Mauvais calcule des d�gats au niveaux de la pr�vu des d�gats (sinon le sort fonctionne trql)
+- épée volante qui heal tout le monde quand il frappe (méme les énnemis) http://prntscr.com/k1dmu5   (est sensé heal que le sacrieur)
+- pacte de sang ne fixe pas l'état insoignable sur le serveur.
+- les dégats des sorts Douleur motivante / Nervosité / Déchaénement / Décimation / Entaille ne s'augmentent pas en fonction de la douleur du sacrieur.
+- Mauvais calcule des dégats au niveaux de la prévu des dégats (sinon le sort fonctionne trql)
 
 
 
@@ -29,6 +29,6 @@ Observation global :
 
 - Le Dokille qui donne les jets d'offi (soit 10 prospection au lieu de 1 000 initiative sur arena)
 - Impossible de spec les kolis ?
-- Check map start en d�fis xD
+- Check map start en défis xD
 - Ratio pvp bug c'est soit 100% de victoire soit 0%
-- Heure du serveur d�call� (une heure de retard)
+- Heure du serveur décallé (une heure de retard)
