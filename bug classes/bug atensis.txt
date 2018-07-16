@@ -1,36 +1,34 @@
 Sadida : 
-- les dégats de malédiction vaudou prennent 4 lignes au lieu de 2 (l'ancien bug où ça tapait pas les autres dans l'état infecté est corrigé) 
-(le problème c'est que t'as mis un truc du style : si le sadi lance vaudou sur un cible infecté, alors les cibles infecté prennent 2 lignes de dégats, sauf que ducoup le premier il prend 4 ligne de dégats (le sort dégats de base + sur les cibles infecté) faudrait mettre un exception pour la cible du sort.
+- les dï¿½gats de malï¿½diction vaudou prennent 4 lignes au lieu de 2 (l'ancien bug oï¿½ ï¿½a tapait pas les autres dans l'ï¿½tat infectï¿½ est corrigï¿½)
+(le problï¿½me c'est que t'as mis un truc du style : si le sadi lance vaudou sur un cible infectï¿½, alors les cibles infectï¿½ prennent 2 lignes de dï¿½gats, sauf que ducoup le premier il prend 4 ligne de dï¿½gats (le sort dï¿½gats de base + sur les cibles infectï¿½) faudrait mettre un exception pour la cible du sort.
 
-- Innoculation ne fonctionne toujours pas correctement, sensé faire comme avec les arbres, infecte les entitées autour de la cible infecté ou de l'arbre ciblé. 
-Ce que ça fait : https://i.imgur.com/XeMOudU.gif sur les cibles infecté 
-Ce que ça devrait faire (avec les cibles infecté) : https://i.imgur.com/lH8GYvD.gif 
-
-
-Iop : 
-- Bug zénith : http://prntscr.com/k1ddvy sur ce screen on peut voir que le iop a perdu 1 pm ce qui est sensé réduire les dégats de zénith, et si il en gagne c'est sensé augmenter ses dégats sauf que sur arena c'est en fonction des pm UTILISÉ au lieu des pm DISPONNIBLE ça signifie que même si le iop tombe à 1 pm (marche pas pour 0 pm) comme il en aura utilisé 0 il tapera quand même du 500 (par exemple).
+- Innoculation ne fonctionne toujours pas correctement, sensï¿½ faire comme avec les arbres, infecte les entitï¿½es autour de la cible infectï¿½ ou de l'arbre ciblï¿½.
+Ce que ï¿½a fait : https://i.imgur.com/XeMOudU.gif sur les cibles infectï¿½
+Ce que ï¿½a devrait faire (avec les cibles infectï¿½) : https://i.imgur.com/lH8GYvD.gif
 
 
-
-Féca : Bug glyphe que je t'ai expliqué qui ne donne pas l'état pesenteur 
+Iop :
+- Bug zï¿½nith : http://prntscr.com/k1ddvy sur ce screen on peut voir que le iop a perdu 1 pm ce qui est sensï¿½ rï¿½duire les dï¿½gats de zï¿½nith, et si il en gagne c'est sensï¿½ augmenter ses dï¿½gats sauf que sur arena c'est en fonction des pm UTILISï¿½ au lieu des pm DISPONNIBLE ï¿½a signifie que mï¿½me si le iop tombe ï¿½ 1 pm (marche pas pour 0 pm) comme il en aura utilisï¿½ 0 il tapera quand mï¿½me du 500 (par exemple).
 
 
 
-Sacrieur : 
-- épée volante qui heal tout le monde quand il frappe (même les énnemis) http://prntscr.com/k1dmu5   (est sensé heal que le sacrieur) 
-- pacte de sang ne fixe pas l'état insoignable sur le serveur. 
-- les dégats des sorts Douleur motivante / Nervosité / Déchaînement / Décimation / Entaille ne s'augmentent pas en fonction de la douleur du sacrieur. 
-- Mauvais calcule des dégats au niveaux de la prévu des dégats (sinon le sort fonctionne trql)  
+Fï¿½ca : Bug glyphe que je t'ai expliquï¿½ qui ne donne pas l'ï¿½tat pesenteur
+
+
+
+Sacrieur :
+- ï¿½pï¿½e volante qui heal tout le monde quand il frappe (mï¿½me les ï¿½nnemis) http://prntscr.com/k1dmu5   (est sensï¿½ heal que le sacrieur)
+- pacte de sang ne fixe pas l'ï¿½tat insoignable sur le serveur.
+- les dï¿½gats des sorts Douleur motivante / Nervositï¿½ / Dï¿½chaï¿½nement / Dï¿½cimation / Entaille ne s'augmentent pas en fonction de la douleur du sacrieur.
+- Mauvais calcule des dï¿½gats au niveaux de la prï¿½vu des dï¿½gats (sinon le sort fonctionne trql)
 
 
 
 
-Observation global : 
+Observation global :
 
-- Le Dokille qui donne les jets d'offi (soit 10 prospection au lieu de 1 000 initiative sur arena) 
-- Impossible de spec les kolis ? 
-- Check map start en défis xD
-- Ratio pvp bug c'est soit 100% de victoire soit 0% 
-- Heure du serveur décallé (une heure de retard)
- 
-
+- Le Dokille qui donne les jets d'offi (soit 10 prospection au lieu de 1 000 initiative sur arena)
+- Impossible de spec les kolis ?
+- Check map start en dï¿½fis xD
+- Ratio pvp bug c'est soit 100% de victoire soit 0%
+- Heure du serveur dï¿½callï¿½ (une heure de retard)
