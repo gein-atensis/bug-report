@@ -1,0 +1,5 @@
+- prévu des sorts de heal (Cicatrisation / Paume Curative/Conflagration) augmenté par rapport au heal réçu. (je penses que ça prends en compte le % de vie qu'on avait au depart, donc la prévu ne prend pas en compte les points de vie érodé) (je penses aussi que ce bug concerne tout les sort qui heal en fonction des pv max)
+
+- Le sort thérapie est sensé ne pas faire de dégat au allié et de les attirer, et faire des dommages au ennemis et les attirer. Sur atensis, ça tape les alliés et ça ne les attires pas, mais ça fonctionne bien sur les adversaires)
+
+- Prévu de TOUT les sorts de dégats à travers les portails bugs (ne correspond pas).

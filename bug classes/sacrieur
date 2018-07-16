@@ -1,0 +1,11 @@
+- épée volante qui heal tout le monde quand il frappe (même les énnemis) http://prntscr.com/k1dmu5   (est sensé heal que le sacrieur)
+
+- pacte de sang ne fixe pas l'état insoignable sur le serveur.
+
+- les dégats des sorts Douleur motivante / Nervosité / Déchaînement / Décimation / Entaille ne s'augmentent pas en fonction de la douleur du sacrieur.
+
+- Mauvais calcule des dégats au niveaux de la prévu des dégats (sinon le sort fonctionne trql)
+
+- Aversion ne fonctionne pas correctement quand plusieur entitée sont collé : https://imgur.com/FtbM7O3
+
+- [Convalescence Niv.3]  ne debuff pas.
