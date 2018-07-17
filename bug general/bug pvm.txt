@@ -4,6 +4,6 @@
 
 - la vitesse de l'ia est trop rapide ça créer des bugs problèmatique comme par exemple un bug d'affi quand ton perso est déplacé trop rapidement il reste affiché sur la case où il était avant d'être déplacé par un sort.
 
-- les blops peuvent se mettent invi alors que c'est seulement leurs invoc normalement, en plus ça peut pas spam le sort (un seul blop peut rendre 4 personne invisible sur atensis)
+- les blops peuvent se mètrent invi alors que c'est seulement leurs invoc normalement, en plus ça peut pas spam le sort (un seul blop peut rendre 4 personne invisible sur atensis)
 
-- les glyphe des blops infligent les dégats au debut de leurs tour sur atensis alors que ça devrait le faire à la fin du tour si tu termine sur la case (à verifier offi)
+- les glyphe des blops infligent les dégâts au debut de leurs tour sur atensis alors que ça devrait le faire à la fin du tour si tu termine sur la case (à vérifier offi)
