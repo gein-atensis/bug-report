@@ -5,3 +5,5 @@
 - la vitesse de l'ia est trop rapide ça créer des bugs problèmatique comme par exemple un bug d'affi quand ton perso est déplacé trop rapidement il reste affiché sur la case où il était avant d'être déplacé par un sort.
 
 - Donjon "Camp du comte Razof" que tu peux trouver en -68,30 les maps id du donjon sont : 179568640 premiere salle ; 179569664 2iem ; 179570688 3iem ; 179571712 4iem ; 179572736 5iem ; 179573760 sortie
+
+- Donjon "Chapiteau des Majik Riktus" pas disponible en -22,12 les maps is du donjont sont : 181665792 première salle ; 181666816 2ieme salle; 181667840 3iem salle ; 181668864 4ieme ; 181669888 5iem ; 181670912 sortie (même salle que la dernière mais avec une id différente)   .. (dans les bdd c'est écrit comme ça : 181669888,181670912,181668864,181665792,181667840,181666816; si tu veux que j'envoie comme ça dit le)
