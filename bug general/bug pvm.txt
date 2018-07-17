@@ -6,4 +6,4 @@
 
 - les blops peuvent se mettent invi alors que c'est seulement leurs invoc normalement, en plus ça peut pas spam le sort (un seul blop peut rendre 4 personne invisible sur atensis)
 
-- les glyphe inflige les dégats au debut de leurs tour sur atensis alors que ça devrait le faire à la fin du tour si tu termine sur la case (à verifier offi)
+- les glyphe des blops infligent les dégats au debut de leurs tour sur atensis alors que ça devrait le faire à la fin du tour si tu termine sur la case (à verifier offi)
