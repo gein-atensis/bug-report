@@ -3,3 +3,5 @@
 - segmantide du donjon fraktal applique l'état insoignable sur lui même et non pas l'adversaire
 
 - la vitesse de l'ia est trop rapide ça créer des bugs problèmatique comme par exemple un bug d'affi quand ton perso est déplacé trop rapidement il reste affiché sur la case où il était avant d'être déplacé par un sort.
+
+- Donjon compte razof pas disponnible. 
