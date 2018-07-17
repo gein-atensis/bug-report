@@ -5,3 +5,5 @@
 - quand on lance [Masque du Couard Niv.1] et ensuite [Masque du Psychopathe Niv.3] l'apparence ne change pas, ducoup les sorts prennent 40 ans à se lancer puisque l'animation des sorts qui requiert etat psychopath ne supporte pas l'apparence du masque du Couard.
 
 - Tout les sorts de shields sont sensé être réduit de 50% sur les invocations.
+
+- le sort martello ne peut pas être lancé, (le sort n'est pas utilisable sur les masque de psycho et pleutre mais là même sans masque ça ne marche pas)
