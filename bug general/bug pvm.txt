@@ -4,4 +4,4 @@
 
 - la vitesse de l'ia est trop rapide ça créer des bugs problèmatique comme par exemple un bug d'affi quand ton perso est déplacé trop rapidement il reste affiché sur la case où il était avant d'être déplacé par un sort.
 
-- Donjon compte razof pas disponnible. 
+- Donjon "Camp du comte Razof" que tu peux trouver en -68,30 les maps id du donjon sont : 179568640 premiere salle ; 179569664 2iem ; 179570688 3iem ; 179571712 4iem ; 179572736 5iem ; 179573760 sortie
