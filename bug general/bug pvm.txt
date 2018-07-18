@@ -7,3 +7,5 @@
 - les blops peuvent se mètrent invi alors que c'est seulement leurs invoc normalement, en plus ça peut pas spam le sort (un seul blop peut rendre 4 personne invisible sur atensis)
 
 - les glyphe des blops infligent les dégâts au debut de leurs tour sur atensis alors que ça devrait le faire à la fin du tour si tu termine sur la case (à vérifier offi)
+
+- le compte harebourg ne fait RIEN, ne tape pas rien dutout
