@@ -9,3 +9,7 @@
 - les glyphe des blops infligent les dégâts au debut de leurs tour sur atensis alors que ça devrait le faire à la fin du tour si tu termine sur la case (à vérifier offi)
 
 - le compte harebourg ne fait RIEN, ne tape pas rien dutout
+
+- les monstres ne prennent pas en comptes les glyphes des bombes et foncent dedans sans hésiter.
+
+- Cadob'Omb ne fait que se déplacé et ne lance aucun sorts (dj maison du papa nowel)
