@@ -10,6 +10,6 @@
 
 - Certaine invocations ne sont pas soumise au tacle : Lapino, chafer, arakne (plus globalement tout les invocs non contrôlable)
 
-- on peut pas refresh les boosts en les relançant (exemple : furia / épée divine ... ) si il reste que 1 tour pour épée divinne si on relance le sort pour avoir encore 2 tour de plus ça ne fonctionnera pas. Ce bug fonctionne aussi pour les poisons ou toute sorte de choses qui dure plusieurs tours, boost comme effets nefaste.
+- on peut pas refresh les boosts en les relançant (exemple : furia / épée divine ... ) si il reste que 1 tour pour épée divinne si on relance le sort pour avoir encore 2 tour de plus ça ne fonctionnera pas. Ce bug fonctionne aussi pour les poisons ou toute sorte de choses qui dure plusieurs tours, boost comme effets nefaste. (haute priorité)
 
-- Aucune invocation de heal ne fonctionne.
+- les costumes avec animation font lag les combats comme pas possible

@@ -1,1 +1,3 @@
-- "http://prntscr.com/k3zbih" sensé réduire les dommages subit par les alliés, ne fonctionne pas sur Atensis. 
+- "http://prntscr.com/k3zbih" sensé réduire les dommages subit par les alliés, ne fonctionne pas sur Atensis, balise tactique.
+
+- La cummulation du rale pa n'est pas sensé être là sur le sort flèche percutante.
