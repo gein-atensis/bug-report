@@ -1,5 +1,3 @@
-- pere fwetar posséde des sorts distance mais ne les utiles que rarement, quand il est taclé il passe son tour
-
 - segmantide du donjon fraktal applique l'état insoignable sur lui même et non pas l'adversaire
 
 - la vitesse de l'ia est trop rapide ça créer des bugs problèmatique comme par exemple un bug d'affi quand ton perso est déplacé trop rapidement il reste affiché sur la case où il était avant d'être déplacé par un sort.
@@ -10,6 +8,33 @@
 
 - le compte harebourg ne fait RIEN, ne tape pas rien dutout
 
-- les monstres ne prennent pas en comptes les glyphes des bombes et foncent dedans sans hésiter.
+- les monstres ne prennent pas en comptes les glyphes des bombes et foncent dedans sans hésiter. pareille pour les portails éliotrope
 
-- Cadob'Omb ne fait que se déplacé et ne lance aucun sorts (dj maison du papa nowel)
+- Cadob'Omb ne fait que se déplacer et ne lance aucun sorts (dj maison du papa nowel)
+
+- Sakai Firefoux ne fait que se déplacer et ne lance aucun sorts (dj maison du papa nowel)
+
+- revoir l'ia de tout les mobs considéré comme soutient, aillant peu ou pas de sort offenssif comme par exemple la Peluche wabbit dans le dj maison du papa nowel
+
+- revoir l'ordre de priorité des sorts de boost, exemple, une peluche bouftou possède un sort de rox et un sort d'érosion, mais il va taper avant de mettre l'érosion
+
+- revoir l'ia pour les monstres qui mettent des sort de mallus exemple -1000 heal + 1500 hp (sort de la peluche wabbit) revoir les priorités, exemple faire en sorte que les sorts comme ça soit lancé sur les personnages considéré comme heal
+
+- mini nuit (dj maison du papa nowel) ne fait rien (parfois)
+
+- pere fwetar posséde des sorts distance mais ne les utiles que rarement, quand il est taclé il passe son tour (dj du papa nowel)
+
+- quand les mobs preinnent un prortails eliotrope ou qu'ils se font deplacer par un pieges ils passent leur tour (sauf si ils ont encore de quoi taper)
+
+- plus précisemment les sorts des mobs du dj maison de papa nowel :
+Sakai Firefoux: En début de tour il gagne 1 PA d'office et se rajoute 1 à 4 PA aléatoirement; tappe en zone et rajoute des boosts (puissance et CC) à lui et à ses alliés s'il a beaucoup de PAs (prévoir de le débuff ou de le rush)
+Mini Nuit : tappe en zone disso terre et eau environ 400 et invoque un kitsou nakwakus. Boost ses alliés en puissance et en CC pendant 8 tours. Sur coup critique son sort de dégâts met en état gelé pendant 2 tours. Cet état peut être enlevé par un coup de corps à corps ou par un débuff. Que ce soit par le cac, le débuff ou le temps la fin de l'état gelé débuff le personnage.
+Cadob : Tappe comme griffe joueuse : plusieurs cases d'affilée sur la même ligne environ 250 feu. Débuff à faible PO.
+Cadob omb : Invoque des cadeaux roses qui donnent des PA à plusieurs monstres en zone furie. Les PA donnés ont une durée de 10 tours. Il invoque également des cadeaux verts qui tappent à distance environ 100 et explosent en tappant en zone environ 150. .
+Peluche bouftou : Il n'attaque qu'au corps à corps en donnant l'état pesanteur et 30% d'érosion par ligne de dégâts reçu dans le tour suivant. Il regagne également 500 vitalité si vous échouez à sortir de ses zones de tacle.
+Peluche tofu :Tape 2 fois 200 à 300 air en retirant 4 fuite pour 3 tours et enlève 1 à 3 PMs pour 2 tours. Tappe pour 3 PAs.
+Peluche wabbit : Soigne les autres monstres 3 fois 900 par tour, possède un sort de soin en zone 3 PO environ 800. Gagne 5 tacle et 5 fuite par attaque dans les éléments feu et air. Invoque une cawotte qui enlève 1000 soins en croix de 7 PO pour 1 tour.
+Placements des salles
+ (sorts du boss)
+Le Père Fwetar peut attirer et gober (OS) deux personnages par tour. Il gagne des PMs si on lui en retire, tappe à 600 environ sans ligne de vue dans un élément aléatoire et invoque un épouvantail qu'il transforme en un des boss du jeu dans les tours suivants.
+Les boss qu'il peut invoquer sont: Bouftou Royal (qui soigne, donc à focus), Mulou (gros machin à 16 000 points de vie qui invoque des milimulous), Minotoror classique, Dragon Cochon (attention aux empoisonnement) et Marionnette Dark Vlad (tappe en zone en mettant de l'érosion)
