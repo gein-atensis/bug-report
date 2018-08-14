@@ -38,3 +38,24 @@ Placements des salles
  (sorts du boss)
 Le Père Fwetar peut attirer et gober (OS) deux personnages par tour. Il gagne des PMs si on lui en retire, tappe à 600 environ sans ligne de vue dans un élément aléatoire et invoque un épouvantail qu'il transforme en un des boss du jeu dans les tours suivants.
 Les boss qu'il peut invoquer sont: Bouftou Royal (qui soigne, donc à focus), Mulou (gros machin à 16 000 points de vie qui invoque des milimulous), Minotoror classique, Dragon Cochon (attention aux empoisonnement) et Marionnette Dark Vlad (tappe en zone en mettant de l'érosion)
+
+...........................................
+
+dj sylargh :
+
+- déplacement du Kanimate étrange
+
+- mansordide utilise ses sort de soin sur les joueurs
+
+
+dj harebourg :
+
+- le comte lance sont sort de dps sur ses alliés et aussi dans le vide (ne leur occasionne aucun dégats)
+
+dj ventre de la baleine :
+
+- les mobs n'ont aucune stats, 1000 vita 0 resi lvl 200-210
+
+dj klime
+
+- retrait pm du Peunch trop faible
