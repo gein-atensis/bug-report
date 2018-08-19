@@ -59,3 +59,14 @@ dj ventre de la baleine :
 dj klime
 
 - retrait pm du Peunch trop faible
+
+
+Bug Ia global
+
+- Les monstres contre les srams sont sensé jouer leurs tour,
+   ils adoptent des déplacements plutôt fuyarde quand : le sram n'utilise pas de sort pendant son tour de jeu ou quand il a tout ses pm et qu'il se déplace après,
+   les monstres adopte une posture semi-agressif quand : le sram lance des sorts avec la moitié de ses pm, (les monstres lance des sorts dans le vide pour essayer de trouver le sram mes fuient);
+   les monstres adopte une posture agressive pour trouver le sram, ils se déplacent vers là où ils pensent que le sram se trouve et lance des sorts un peut partout dans la zone pour le trouver;
+   les monstres adoptent une posture très agressive quand ils sont sûr de trouver le sram (avec au moins 25% de chance avec 1 sort) ils vont se déplacer vers la zone où ils pensent trouver le sram et tapent à des endroits stratégique suivant le nombre de pm du sram.
+ce shema logique peu changer si le sram mets des pieges dans ce cas les mobs prefere fuirent si ils sont pas sûr à au moins 25 % de trouver le sram. (à test)
+sur atensis les monstres aillant que des sorts agressives passent 

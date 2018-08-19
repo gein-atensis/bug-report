@@ -1,22 +1,17 @@
-- les dégats de malédiction vaudou prennent 4 lignes au lieu de 2 (l'ancien bug où ça tapait pas les autres dans l'état infecté est corrigé)
-(le problème c'est que t'as mis un truc du style : si le sadi lance vaudou sur un cible infecté, alors les cibles infecté prennent 2 lignes de dégats, sauf que ducoup le premier il prend 4 ligne de dégats (le sort dégats de base + sur les cibles infecté) faudrait mettre un exception pour la cible du sort.
-
 - Innoculation ne fonctionne toujours pas correctement, sensé faire comme avec les arbres, infecte les entitées autour de la cible infecté ou de l'arbre ciblé.
 Ce que ça fait : https://i.imgur.com/XeMOudU.gif sur les cibles infecté
 Ce que ça devrait faire (avec les cibles infecté) : https://i.imgur.com/lH8GYvD.gif
 
-- montée de sève ne tape pas dutout
-
-- Broussaille empoisonné est sensé appliquer le poison à toute les personnes infecté.
-
-- heal sur les invocations par tour de l'arbre de vie est trop faible
-
-- montée de sève ne tape pas dutout. (énorme désavantage en pvp et pvm contre certaine classe)
-
 - Folle et Surpuissante ne sont pas sensé être contrôlable
-
-- La folle est sensé enlever 3 pa au lieu de 2
 
 - Innoculation toujours bug
 
 - Malédiction Vaudou ne se débuff pas normalement
+
+...................................
+
+- La cummulation du retrait pm n'est pas sensé avoir lieu sur le sort Ronce Paralysante
+
+- après avoir lancé le "Influance Vegetal" les arbres à la fin du tour des Tréant sont sensé avoir 525 hp et non pas 285.
+
+- Innoculation toujours bug
