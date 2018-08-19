@@ -7,4 +7,9 @@
 
 ...................
 
-- déco reco fait disparraitre de vu les portails pour la personne qui se deco reco uniquement. 
+- déco reco fait disparraitre de vu les portails pour la personne qui se deco reco uniquement.
+
+- l'effet du totem (Distorsion) ne fonctionne pas (est sensé heal tout les alliés qui passent par un portails, temps que le totem est en vie)
+    -- le totem n'est pas sensé tp les ennemis (à veref)
+
+- conjuration boost les dégats pour deux tour alors que ça devrait le faire que pour une attaque sauf si la cible traverse un portail.
